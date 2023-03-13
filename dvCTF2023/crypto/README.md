@@ -6,3 +6,5 @@ There are explanations within the code for clarity and understanding of the solu
   
 > Usage: python3 writeup.py  
 > Python librairies you might need: pycryptodome, gmpy2, primefac, factordb  
+  
+*I hope you liked my challenges*
