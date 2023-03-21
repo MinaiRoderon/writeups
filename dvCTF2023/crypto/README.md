@@ -5,6 +5,6 @@ The writeup file prints the flag at the end of the calculations (you may want to
 There are explanations within the code for clarity and understanding of the solution.  
   
 > Usage: python3 writeup.py  
-> Python librairies you might need: pycryptodome, gmpy2, primefac, factordb  
-  
+> Python librairies you might need: pycryptodome, gmpy2, primefac, factordb (and sage to run the partial d exposure attack)
+
 *I hope you liked my challenges*
